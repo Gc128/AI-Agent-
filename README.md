@@ -2,11 +2,11 @@
   <img src="./1.png" alt="AI 智能职途" width="600" />
 </div>
 
-# AgentArchitect AI (中文版)
+# AI SmartCareer (中文版)
 
 <div align="center">
   <p align="center">
-    <strong>一个专为 AI Agent 开发者打造的全栈 AI 学习与进化系统</strong>
+    <strong>一个专为 AI 领域 开发者打造的全栈 AI 学习与进化系统</strong>
   </p>
   <p align="center">
     <a href="#核心功能">核心功能</a> •
@@ -20,7 +20,7 @@
 
 ## 🌟 项目简介
 
-**AgentArchitect AI** 是一款集成化的 AI 学习助手，旨在帮助开发者从零开始构建、理解并掌握 AI Agent（人工智能代理）技术。不同于通用的学习平台，它深度集成了 Google Gemini AI，为用户提供端到端的个性化学习体验，包括从路线规划到面试模拟的全流程支持。
+**AI SmartCareer** 是一款集成化的 AI 学习助手，旨在帮助开发者从零开始构建、理解并掌握 AI 领域相关技术。不同于通用的学习平台，它深度集成了 Google Gemini AI，为用户提供端到端的个性化学习体验，包括从路线规划到面试模拟的全流程支持。
 
 ## 🚀 核心功能
 
