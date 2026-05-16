@@ -1,5 +1,5 @@
 <div align="center">
-./1.png</div>
+1.png</div>
 
 # AgentArchitect AI (中文版)
 
