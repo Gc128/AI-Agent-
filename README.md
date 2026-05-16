@@ -1,5 +1,6 @@
 <div align="center">
-1.png</div>
+  <img src="./1.png" alt="AI 智能职途" width="600" />
+</div>
 
 # AgentArchitect AI (中文版)
 
